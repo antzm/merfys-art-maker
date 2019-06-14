@@ -1,5 +1,9 @@
 # Merfys Art Maker
 
+## Introduction
+
+This game is part of Udacity's course on Front-End Web Development.
+
 ## Details
 
 This is a game that is used for drawing simple shapes. 
